@@ -1,6 +1,8 @@
-# Express Boilerplate!
+# Noteful API Server
 
-This is a boilerplate project used for starting new projects!
+Malek Adair
+Alan Lee
+Marie Grace Bodur
 
 ## Set up
 
